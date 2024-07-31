@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 const esDiagonalSecundaria = iteracionFilas + iteracionColumnas === 4;
                 
                 // Determinar la clase de la celda
-                let clase = "boton";
+                let clase = "";
                 if (colorearPrimeraColumna && iteracionColumnas === 0) {
                     clase += " highlight-columna";
                 } else if (colorearX && (esDiagonalPrincipal || esDiagonalSecundaria)) {
