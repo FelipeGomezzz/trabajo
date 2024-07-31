@@ -65,23 +65,23 @@ bingo-table {
 
 .bingo-table td {
     padding: 10px;
-    border: 1px solid #ccc;
     text-align: center;
+    border: solid 3px #0f0d0d;
 }
 
 .bingo-table .header {
-    background-color: lightgrey; /* Color de fondo para los encabezados */
+    background-color: rgb(219, 51, 51); /* Color de fondo para los encabezados */
     text-align: center;
     font-weight: bold;
+    border: solid 3px;
 }
-
 .highlight-x {
     background-color: yellow; /* Color de la X en amarillo */
     font-weight: bold;
 }
 
 .highlight-columna {
-    background-color: yellow; /* Color amarillo para la primera columna */
+    background-color: rgb(116, 180, 25); /* Color amarillo para la primera columna */
     font-weight: bold;
 }
 
