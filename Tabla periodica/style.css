@@ -1,0 +1,59 @@
+.container{
+    display: flex;
+    width: 1215px;
+    height: 720px;
+}
+
+.col-4{
+    width: 400px;
+    height: 700px;
+    display: flex;
+}
+
+.columnas{
+    width: 66.7px;
+    height: 700px;
+}
+.columnas .row-2{
+    width: 66.7px;
+    height: 100px;
+    margin: 3px;
+}
+.forma{
+    border: 1px solid black;
+    text-align: center;
+    font-size: 10px;
+    line-height: 40px;
+    padding-top: 12px;
+}
+.color{
+    background-color: #53d418;
+}
+.color0{
+    background-color: blue;
+}
+.color1{
+    background-color: blueviolet;
+}
+.color2{
+    background-color: rgb(137, 9, 80);
+}
+.color3{
+    background-color: rgb(195, 114, 180);
+}
+.color4{
+    background-color: rgb(255, 0, 0);
+}
+.color5{
+    background-color: blue;
+}
+.color6{
+    background-color: #53d418;
+}
+.color7{
+    background-color: white;
+}
+.color8{
+    background-color: rgb(41, 96, 61);
+}
+

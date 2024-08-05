@@ -1,0 +1,12 @@
+tr{
+    border: 2px solid rgba(0, 253, 232, 0.562);
+   
+}
+td{
+    border: 2px solid rgba(51, 45, 45, 0.445);
+}
+table{
+    margin: auto;
+    text-align: center;
+    width: 400px;
+}
